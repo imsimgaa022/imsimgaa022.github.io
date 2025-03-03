@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:03:34	26/26	---M--	200	added ('OK')	text/plain	date:Mon,%2003%20Mar%202025%2022:03:34%20GMT	https://btlflorida2024.wpengine.com/robots.txt		(from )
+23:03:34	128890/128890	---MCZ	200	added ('OK')	text/html	date:Mon,%2003%20Mar%202025%2022:03:34%20GMT	https://btlflorida2024.wpengine.com/	C:/My%20Web%20Sites/btl_main/btlflorida2024.wpengine.com/index.html	(from )
